@@ -4,7 +4,7 @@ This project focuses on analyzing and forecasting the **Air Quality Index (AQI)*
 
 ---
 
-## 📌 Objectives
+## 📌 Objectives    
 
 - Understand AQI and its national significance in India.
 - Collect and preprocess AQI data (hourly) for Jaipur and Kolkata.
